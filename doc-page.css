@@ -1,0 +1,21 @@
+
+#navbar {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+}
+#The_Problem {
+  background-color: red;
+}
+#Our_Solution {
+  background-color: red;
+}
+#Why_We_Do_It {
+  background-color: red;
+}
+#Our_Future {
+  background-color: red;
+}
+#Become_A_Member {
+  background-color: red;
+}
